@@ -1,0 +1,408 @@
+,team_id,game,date_str,time,type,site,opp,conf,srs,team_result,team_pts,opp_pts,ot,win_num,loss_num,streak,arena,team,date,dow,month,day,year
+0,2,1,Thu Nov 9 2023,7:00p,REG,1,Eastern Illinois,OVC,-9.8,W,96.0,43.0,,1.0,0.0,W 1,Simon Skjodt Assembly Hall,Indiana,2023-11-09,3,11,9,2023
+1,2,2,Sun Nov 12 2023,5:00p,REG,0,Stanford (15),Pac-12,36.17,L,64.0,96.0,,1.0,1.0,L 1,Maples Pavilion,Indiana,2023-11-12,6,11,12,2023
+2,2,3,Fri Nov 17 2023,7:00p,REG,1,Murray State,MVC,7.04,W,112.0,79.0,,2.0,1.0,W 1,Simon Skjodt Assembly Hall,Indiana,2023-11-17,4,11,17,2023
+3,2,4,Sun Nov 19 2023,2:00p,REG,1,Lipscomb,A-Sun,-4.1,W,77.0,44.0,,3.0,1.0,W 2,Simon Skjodt Assembly Hall,Indiana,2023-11-19,6,11,19,2023
+4,2,5,Thu Nov 23 2023,6:00p,REG,-1,Tennessee (19),SEC,23.24,W,71.0,57.0,,4.0,1.0,W 3,Suncoast Credit Union Arena,Indiana,2023-11-23,3,11,23,2023
+5,2,6,Sat Nov 25 2023,11:00a,REG,-1,Princeton,Ivy,17.41,W,72.0,63.0,,5.0,1.0,W 4,Suncoast Credit Union Arena,Indiana,2023-11-25,5,11,25,2023
+6,2,7,Thu Nov 30 2023,7:00p,REG,0,Maine,AEC,3.14,W,67.0,59.0,,6.0,1.0,W 5,,Indiana,2023-11-30,3,11,30,2023
+7,2,8,Sun Dec 3 2023,2:00p,REG,1,Stetson,A-Sun,-8.91,W,72.0,34.0,,7.0,1.0,W 6,Simon Skjodt Assembly Hall,Indiana,2023-12-03,6,12,3,2023
+8,2,9,Sat Dec 9 2023,4:00p,REG,0,Rutgers,Big Ten,3.79,W,66.0,56.0,,8.0,1.0,W 7,Jersey Mike's Arena,Indiana,2023-12-09,5,12,9,2023
+9,2,10,Mon Dec 18 2023,7:00p,REG,1,Evansville,MVC,-19.46,W,109.0,56.0,,9.0,1.0,W 8,Simon Skjodt Assembly Hall,Indiana,2023-12-18,0,12,18,2023
+10,2,11,Fri Dec 22 2023,6:00p,REG,1,Bowling Green State,MAC,-2.35,W,84.0,35.0,,10.0,1.0,W 9,Simon Skjodt Assembly Hall,Indiana,2023-12-22,4,12,22,2023
+11,2,12,Sun Dec 31 2023,12:30p,REG,1,Illinois,Big Ten,19.38,W,77.0,71.0,,11.0,1.0,W 10,Simon Skjodt Assembly Hall,Indiana,2023-12-31,6,12,31,2023
+12,2,13,Thu Jan 4 2024,7:00p,REG,1,Michigan,Big Ten,18.99,W,80.0,59.0,,12.0,1.0,W 11,Simon Skjodt Assembly Hall,Indiana,2024-01-04,3,1,4,2024
+13,2,14,Sun Jan 7 2024,2:00p,REG,0,Nebraska,Big Ten,22.52,W,91.0,69.0,,13.0,1.0,W 12,Pinnacle Bank Arena,Indiana,2024-01-07,6,1,7,2024
+14,2,15,Wed Jan 10 2024,7:00p,REG,1,Penn State,Big Ten,25.4,W,75.0,67.0,,14.0,1.0,W 13,Simon Skjodt Assembly Hall,Indiana,2024-01-10,2,1,10,2024
+15,2,16,Sat Jan 13 2024,8:00p,REG,0,Iowa (3),Big Ten,37.03,L,57.0,84.0,,14.0,2.0,L 1,Carver-Hawkeye Arena,Indiana,2024-01-13,5,1,13,2024
+16,2,17,Wed Jan 17 2024,8:00p,REG,1,Minnesota,Big Ten,16.38,W,85.0,62.0,,15.0,2.0,W 1,Simon Skjodt Assembly Hall,Indiana,2024-01-17,2,1,17,2024
+17,2,18,Sun Jan 21 2024,2:00p,REG,0,Purdue,Big Ten,14.46,W,74.0,68.0,,16.0,2.0,W 2,Mackey Arena,Indiana,2024-01-21,6,1,21,2024
+18,2,19,Sun Jan 28 2024,2:00p,REG,1,Northwestern,Big Ten,-0.22,W,100.0,59.0,,17.0,2.0,W 3,Simon Skjodt Assembly Hall,Indiana,2024-01-28,6,1,28,2024
+19,2,20,Wed Jan 31 2024,7:00p,REG,0,Maryland,Big Ten,22.6,W,87.0,73.0,,18.0,2.0,W 4,Xfinity Center,Indiana,2024-01-31,2,1,31,2024
+20,2,21,Sun Feb 4 2024,12:00p,REG,0,Ohio State (8),Big Ten,34.28,L,69.0,74.0,,18.0,3.0,L 1,Value City Arena,Indiana,2024-02-04,6,2,4,2024
+21,2,22,Thu Feb 8 2024,7:00p,REG,1,Michigan State,Big Ten,28.21,W,94.0,91.0,,19.0,3.0,W 1,Simon Skjodt Assembly Hall,Indiana,2024-02-08,3,2,8,2024
+22,2,23,Sun Feb 11 2024,2:00p,REG,1,Purdue,Big Ten,14.46,W,95.0,62.0,,20.0,3.0,W 2,Simon Skjodt Assembly Hall,Indiana,2024-02-11,6,2,11,2024
+23,2,24,Wed Feb 14 2024,8:00p,REG,0,Wisconsin,Big Ten,7.62,W,68.0,54.0,,21.0,3.0,W 3,,Indiana,2024-02-14,2,2,14,2024
+24,2,25,Mon Feb 19 2024,2:00p,REG,0,Illinois,Big Ten,19.38,L,66.0,86.0,,21.0,4.0,L 1,State Farm Center,Indiana,2024-02-19,0,2,19,2024
+25,2,26,Thu Feb 22 2024,8:00p,REG,1,Iowa (4),Big Ten,37.03,W,86.0,69.0,,22.0,4.0,W 1,Simon Skjodt Assembly Hall,Indiana,2024-02-22,3,2,22,2024
+26,2,27,Tue Feb 27 2024,7:00p,REG,0,Northwestern,Big Ten,-0.22,W,84.0,64.0,,23.0,4.0,W 2,Welsh-Ryan Arena,Indiana,2024-02-27,1,2,27,2024
+27,2,28,Sun Mar 3 2024,3:00p,REG,1,Maryland,Big Ten,22.6,W,71.0,54.0,,24.0,4.0,W 3,Simon Skjodt Assembly Hall,Indiana,2024-03-03,6,3,3,2024
+29,1,1,Mon Nov 6 2023,2:00p,REG,-1,Southern California (21),Pac-12,30.17,L,74.0,83.0,,0.0,1.0,L 1,T-Mobile Arena,Ohio State,2023-11-06,0,11,6,2023
+30,1,2,Sun Nov 12 2023,1:00p,REG,1,IUPUI,Horizon,-12.07,W,108.0,58.0,,1.0,1.0,W 1,Value City Arena,Ohio State,2023-11-12,6,11,12,2023
+31,1,3,Thu Nov 16 2023,7:00p,REG,1,Boston College,ACC,11.84,W,88.0,66.0,,2.0,1.0,W 2,Value City Arena,Ohio State,2023-11-16,3,11,16,2023
+32,1,4,Mon Nov 20 2023,1:30p,REG,-1,East Carolina,AAC,7.3,W,79.0,55.0,,3.0,1.0,W 3,Baha Mar Convention Center,Ohio State,2023-11-20,0,11,20,2023
+33,1,5,Wed Nov 22 2023,6:30p,REG,-1,Oklahoma State,Big 12,17.76,W,75.0,57.0,,4.0,1.0,W 4,Baha Mar Convention Center,Ohio State,2023-11-22,2,11,22,2023
+34,1,6,Sun Nov 26 2023,1:00p,REG,1,Cornell,Ivy,-10.69,W,83.0,40.0,,5.0,1.0,W 5,Value City Arena,Ohio State,2023-11-26,6,11,26,2023
+35,1,7,Sun Dec 3 2023,5:00p,REG,0,Tennessee (20),SEC,23.24,W,78.0,58.0,,6.0,1.0,W 6,Thompson-Boling Arena,Ohio State,2023-12-03,6,12,3,2023
+36,1,8,Tue Dec 5 2023,7:00p,REG,1,Ohio,MAC,-11.07,W,85.0,45.0,,7.0,1.0,W 7,Value City Arena,Ohio State,2023-12-05,1,12,5,2023
+37,1,9,Sun Dec 10 2023,1:00p,REG,1,Penn State (25),Big Ten,25.4,W,94.0,84.0,OT,8.0,1.0,W 8,Value City Arena,Ohio State,2023-12-10,6,12,10,2023
+38,1,10,Fri Dec 15 2023,6:00p,REG,1,Grand Valley State,,,W,73.0,49.0,,9.0,1.0,W 9,Value City Arena,Ohio State,2023-12-15,4,12,15,2023
+39,1,11,Mon Dec 18 2023,6:30p,REG,1,UCLA (2),Pac-12,35.86,L,71.0,77.0,,9.0,2.0,L 1,Value City Arena,Ohio State,2023-12-18,0,12,18,2023
+40,1,12,Fri Dec 22 2023,1:00p,REG,1,Belmont,MVC,12.87,W,84.0,55.0,,10.0,2.0,W 1,Value City Arena,Ohio State,2023-12-22,4,12,22,2023
+41,1,13,Sat Dec 30 2023,12:00p,REG,0,Michigan,Big Ten,18.99,L,60.0,69.0,,10.0,3.0,L 1,Crisler Center,Ohio State,2023-12-30,5,12,30,2023
+42,1,14,Fri Jan 5 2024,8:00p,REG,0,Northwestern,Big Ten,-0.22,W,90.0,60.0,,11.0,3.0,W 1,Welsh-Ryan Arena,Ohio State,2024-01-05,4,1,5,2024
+43,1,15,Thu Jan 11 2024,6:00p,REG,1,Rutgers,Big Ten,3.79,W,90.0,55.0,,12.0,3.0,W 2,Value City Arena,Ohio State,2024-01-11,3,1,11,2024
+44,1,16,Sun Jan 14 2024,4:00p,REG,1,Michigan State,Big Ten,28.21,W,70.0,65.0,,13.0,3.0,W 3,Value City Arena,Ohio State,2024-01-14,6,1,14,2024
+45,1,17,Wed Jan 17 2024,7:00p,REG,0,Maryland,Big Ten,22.6,W,84.0,76.0,,14.0,3.0,W 4,Xfinity Center,Ohio State,2024-01-17,2,1,17,2024
+46,1,18,Sun Jan 21 2024,12:00p,REG,1,Iowa (2),Big Ten,37.03,W,100.0,92.0,OT,15.0,3.0,W 5,Value City Arena,Ohio State,2024-01-21,6,1,21,2024
+47,1,19,Thu Jan 25 2024,7:00p,REG,0,Illinois,Big Ten,19.38,W,67.0,59.0,,16.0,3.0,W 6,State Farm Center,Ohio State,2024-01-25,3,1,25,2024
+48,1,20,Sun Jan 28 2024,2:00p,REG,0,Purdue,Big Ten,14.46,W,71.0,68.0,,17.0,3.0,W 7,Mackey Arena,Ohio State,2024-01-28,6,1,28,2024
+49,1,21,Thu Feb 1 2024,6:00p,REG,1,Wisconsin,Big Ten,7.62,W,87.0,49.0,,18.0,3.0,W 8,Value City Arena,Ohio State,2024-02-01,3,2,1,2024
+50,1,22,Sun Feb 4 2024,12:00p,REG,1,Indiana (10),Big Ten,30.25,W,74.0,69.0,,19.0,3.0,W 9,Value City Arena,Ohio State,2024-02-04,6,2,4,2024
+51,1,23,Thu Feb 8 2024,9:00p,REG,0,Minnesota,Big Ten,16.38,W,71.0,47.0,,20.0,3.0,W 10,Williams Arena,Ohio State,2024-02-08,3,2,8,2024
+52,1,24,Sun Feb 11 2024,4:00p,REG,0,Michigan State,Big Ten,28.21,W,86.0,71.0,,21.0,3.0,W 11,Breslin Student Events Center,Ohio State,2024-02-11,6,2,11,2024
+53,1,25,Wed Feb 14 2024,7:00p,REG,1,Nebraska,Big Ten,22.52,W,80.0,47.0,,22.0,3.0,W 12,Value City Arena,Ohio State,2024-02-14,2,2,14,2024
+54,1,26,Thu Feb 22 2024,6:00p,REG,0,Penn State,Big Ten,25.4,W,82.0,69.0,,23.0,3.0,W 13,,Ohio State,2024-02-22,3,2,22,2024
+55,1,27,Sun Feb 25 2024,2:00p,REG,1,Maryland,Big Ten,22.6,W,79.0,66.0,,24.0,3.0,W 14,Value City Arena,Ohio State,2024-02-25,6,2,25,2024
+56,1,28,Wed Feb 28 2024,7:00p,REG,1,Michigan,Big Ten,18.99,W,67.0,51.0,,25.0,3.0,W 15,Value City Arena,Ohio State,2024-02-28,2,2,28,2024
+57,1,29,Sun Mar 3 2024,1:00p,REG,0,Iowa (6),Big Ten,37.03,L,83.0,93.0,,25.0,4.0,L 1,Carver-Hawkeye Arena,Ohio State,2024-03-03,6,3,3,2024
+59,3,1,Mon Nov 6 2023,7:30p,REG,1,FDU,NEC,-17.68,W,102.0,46.0,,1.0,0.0,W 1,Carver-Hawkeye Arena,Iowa,2023-11-06,0,11,6,2023
+60,3,2,Thu Nov 9 2023,8:00p,REG,-1,Virginia Tech (8),ACC,27.25,W,80.0,76.0,,2.0,0.0,W 2,Spectrum Center,Iowa,2023-11-09,3,11,9,2023
+61,3,3,Sun Nov 12 2023,3:00p,REG,0,Northern Iowa,MVC,7.36,W,94.0,53.0,,3.0,0.0,W 3,McLeod Center,Iowa,2023-11-12,6,11,12,2023
+62,3,4,Thu Nov 16 2023,8:30p,REG,1,Kansas State,Big 12,29.22,L,58.0,65.0,,3.0,1.0,L 1,Carver-Hawkeye Arena,Iowa,2023-11-16,3,11,16,2023
+63,3,5,Sun Nov 19 2023,7:00p,REG,1,Drake,MVC,13.19,W,113.0,90.0,,4.0,1.0,W 1,Carver-Hawkeye Arena,Iowa,2023-11-19,6,11,19,2023
+64,3,6,Fri Nov 24 2023,7:30p,REG,-1,Purdue Fort Wayne,Horizon,-0.17,W,98.0,59.0,,5.0,1.0,W 2,Hertz Arena,Iowa,2023-11-24,4,11,24,2023
+66,3,8,Sat Nov 25 2023,7:30p,REG,-1,Florida Gulf Coast,A-Sun,14.2,W,100.0,62.0,,6.0,1.0,W 1,Hertz Arena,Iowa,2023-11-25,5,11,25,2023
+68,3,10,Sun Nov 26 2023,7:30p,REG,-1,Kansas State (16),Big 12,29.22,W,77.0,70.0,,7.0,1.0,W 1,Hertz Arena,Iowa,2023-11-26,6,11,26,2023
+69,3,11,Sat Dec 2 2023,1:30p,REG,1,Bowling Green State,MAC,-2.35,W,99.0,65.0,,8.0,1.0,W 2,Carver-Hawkeye Arena,Iowa,2023-12-02,5,12,2,2023
+70,3,12,Wed Dec 6 2023,7:00p,REG,0,Iowa State,Big 12,22.31,W,67.0,58.0,,9.0,1.0,W 3,James H. Hilton Coliseum,Iowa,2023-12-06,2,12,6,2023
+71,3,13,Sun Dec 10 2023,2:30p,REG,0,Wisconsin,Big Ten,7.62,W,87.0,65.0,,10.0,1.0,W 4,,Iowa,2023-12-10,6,12,10,2023
+72,3,14,Sat Dec 16 2023,7:00p,REG,-1,Cleveland State,Horizon,9.16,W,104.0,75.0,,11.0,1.0,W 5,Wells Fargo Arena,Iowa,2023-12-16,5,12,16,2023
+73,3,15,Thu Dec 21 2023,6:00p,REG,1,Loyola (IL),A-10,-1.63,W,98.0,69.0,,12.0,1.0,W 6,Carver-Hawkeye Arena,Iowa,2023-12-21,3,12,21,2023
+74,3,16,Sat Dec 30 2023,2:00p,REG,1,Minnesota,Big Ten,16.38,W,94.0,71.0,,13.0,1.0,W 7,Carver-Hawkeye Arena,Iowa,2023-12-30,5,12,30,2023
+75,3,17,Tue Jan 2 2024,9:00p,REG,1,Michigan State,Big Ten,28.21,W,76.0,73.0,,14.0,1.0,W 8,Carver-Hawkeye Arena,Iowa,2024-01-02,1,1,2,2024
+76,3,18,Fri Jan 5 2024,6:00p,REG,0,Rutgers,Big Ten,3.79,W,103.0,69.0,,15.0,1.0,W 9,Jersey Mike's Arena,Iowa,2024-01-05,4,1,5,2024
+77,3,19,Wed Jan 10 2024,8:00p,REG,0,Purdue,Big Ten,14.46,W,96.0,71.0,,16.0,1.0,W 10,Mackey Arena,Iowa,2024-01-10,2,1,10,2024
+78,3,20,Sat Jan 13 2024,8:00p,REG,1,Indiana (14),Big Ten,30.25,W,84.0,57.0,,17.0,1.0,W 11,Carver-Hawkeye Arena,Iowa,2024-01-13,5,1,13,2024
+79,3,21,Tue Jan 16 2024,9:00p,REG,1,Wisconsin,Big Ten,7.62,W,96.0,50.0,,18.0,1.0,W 12,Carver-Hawkeye Arena,Iowa,2024-01-16,1,1,16,2024
+80,3,22,Sun Jan 21 2024,12:00p,REG,0,Ohio State (18),Big Ten,34.28,L,92.0,100.0,OT,18.0,2.0,L 1,Value City Arena,Iowa,2024-01-21,6,1,21,2024
+81,3,23,Sat Jan 27 2024,2:00p,REG,1,Nebraska,Big Ten,22.52,W,92.0,73.0,,19.0,2.0,W 1,Carver-Hawkeye Arena,Iowa,2024-01-27,5,1,27,2024
+82,3,24,Wed Jan 31 2024,8:00p,REG,0,Northwestern,Big Ten,-0.22,W,110.0,74.0,,20.0,2.0,W 2,Welsh-Ryan Arena,Iowa,2024-01-31,2,1,31,2024
+83,3,25,Sat Feb 3 2024,8:00p,REG,0,Maryland,Big Ten,22.6,W,93.0,85.0,,21.0,2.0,W 3,Xfinity Center,Iowa,2024-02-03,5,2,3,2024
+84,3,26,Thu Feb 8 2024,9:00p,REG,1,Penn State,Big Ten,25.4,W,111.0,93.0,,22.0,2.0,W 4,Carver-Hawkeye Arena,Iowa,2024-02-08,3,2,8,2024
+85,3,27,Sun Feb 11 2024,1:00p,REG,0,Nebraska,Big Ten,22.52,L,79.0,82.0,,22.0,3.0,L 1,Pinnacle Bank Arena,Iowa,2024-02-11,6,2,11,2024
+86,3,28,Thu Feb 15 2024,8:00p,REG,1,Michigan,Big Ten,18.99,W,106.0,89.0,,23.0,3.0,W 1,Carver-Hawkeye Arena,Iowa,2024-02-15,3,2,15,2024
+87,3,29,Thu Feb 22 2024,8:00p,REG,0,Indiana (14),Big Ten,30.25,L,69.0,86.0,,23.0,4.0,L 1,Simon Skjodt Assembly Hall,Iowa,2024-02-22,3,2,22,2024
+88,3,30,Sun Feb 25 2024,1:00p,REG,1,Illinois,Big Ten,19.38,W,101.0,85.0,,24.0,4.0,W 1,Carver-Hawkeye Arena,Iowa,2024-02-25,6,2,25,2024
+89,3,31,Wed Feb 28 2024,9:00p,REG,0,Minnesota,Big Ten,16.38,W,108.0,60.0,,25.0,4.0,W 2,Williams Arena,Iowa,2024-02-28,2,2,28,2024
+90,3,32,Sun Mar 3 2024,1:00p,REG,1,Ohio State (2),Big Ten,34.28,W,93.0,83.0,,26.0,4.0,W 3,Carver-Hawkeye Arena,Iowa,2024-03-03,6,3,3,2024
+92,4,1,Wed Nov 8 2023,6:30p,REG,1,Oakland,Horizon,-9.04,W,87.0,62.0,,1.0,0.0,W 1,Breslin Student Events Center,Michigan State,2023-11-08,2,11,8,2023
+93,4,2,Sun Nov 12 2023,2:00p,REG,1,Wright State,Horizon,-3.85,W,99.0,55.0,,2.0,0.0,W 2,Breslin Student Events Center,Michigan State,2023-11-12,6,11,12,2023
+94,4,3,Thu Nov 16 2023,6:30p,REG,1,Detroit Mercy,Horizon,-8.32,W,105.0,44.0,,3.0,0.0,W 3,Breslin Student Events Center,Michigan State,2023-11-16,3,11,16,2023
+95,4,4,Sun Nov 19 2023,1:00p,REG,1,Evansville,MVC,-19.46,W,105.0,49.0,,4.0,0.0,W 4,Breslin Student Events Center,Michigan State,2023-11-19,6,11,19,2023
+96,4,5,Thu Nov 23 2023,6:30p,REG,-1,James Madison,Sun Belt,4.66,W,95.0,69.0,,5.0,0.0,W 5,Hard Rock Hotel Riviera Maya,Michigan State,2023-11-23,3,11,23,2023
+97,4,6,Fri Nov 24 2023,4:00p,REG,-1,Creighton,Big East,23.83,L,69.0,83.0,,5.0,1.0,L 1,Hard Rock Hotel Riviera Maya,Michigan State,2023-11-24,4,11,24,2023
+98,4,7,Thu Nov 30 2023,7:00p,REG,0,DePaul,Big East,7.96,W,102.0,64.0,,6.0,1.0,W 1,Wintrust Arena,Michigan State,2023-11-30,3,11,30,2023
+99,4,8,Sun Dec 3 2023,2:00p,REG,1,Miami (OH),MAC,-13.3,W,89.0,44.0,,7.0,1.0,W 2,Breslin Student Events Center,Michigan State,2023-12-03,6,12,3,2023
+100,4,9,Sat Dec 9 2023,2:00p,REG,1,Nebraska,Big Ten,22.52,L,74.0,80.0,,7.0,2.0,L 1,Breslin Student Events Center,Michigan State,2023-12-09,5,12,9,2023
+101,4,10,Sun Dec 17 2023,2:00p,REG,1,Central Michigan,MAC,-16.27,W,91.0,67.0,,8.0,2.0,W 1,Breslin Student Events Center,Michigan State,2023-12-17,6,12,17,2023
+102,4,11,Wed Dec 20 2023,9:30p,REG,-1,Richmond,A-10,13.54,W,83.0,76.0,,9.0,2.0,W 2,,Michigan State,2023-12-20,2,12,20,2023
+104,4,13,Thu Dec 21 2023,9:30p,REG,-1,Coastal Carolina,Sun Belt,-5.98,W,105.0,66.0,,10.0,2.0,W 1,,Michigan State,2023-12-21,3,12,21,2023
+105,4,14,Sat Dec 30 2023,4:00p,REG,0,Penn State,Big Ten,25.4,W,98.0,87.0,,11.0,2.0,W 2,Bryce Jordan Center,Michigan State,2023-12-30,5,12,30,2023
+106,4,15,Tue Jan 2 2024,9:00p,REG,0,Iowa (4),Big Ten,37.03,L,73.0,76.0,,11.0,3.0,L 1,Carver-Hawkeye Arena,Michigan State,2024-01-02,1,1,2,2024
+107,4,16,Tue Jan 9 2024,6:00p,REG,1,Maryland,Big Ten,22.6,W,74.0,69.0,,12.0,3.0,W 1,Breslin Student Events Center,Michigan State,2024-01-09,1,1,9,2024
+108,4,17,Sun Jan 14 2024,4:00p,REG,0,Ohio State (17),Big Ten,34.28,L,65.0,70.0,,12.0,4.0,L 1,Value City Arena,Michigan State,2024-01-14,6,1,14,2024
+109,4,18,Wed Jan 17 2024,6:30p,REG,1,Northwestern,Big Ten,-0.22,W,91.0,72.0,,13.0,4.0,W 1,Breslin Student Events Center,Michigan State,2024-01-17,2,1,17,2024
+110,4,19,Sat Jan 20 2024,3:00p,REG,0,Minnesota,Big Ten,16.38,L,50.0,69.0,,13.0,5.0,L 1,Williams Arena,Michigan State,2024-01-20,5,1,20,2024
+111,4,20,Wed Jan 24 2024,6:30p,REG,1,Purdue,Big Ten,14.46,W,97.0,70.0,,14.0,5.0,W 1,Breslin Student Events Center,Michigan State,2024-01-24,2,1,24,2024
+112,4,21,Sat Jan 27 2024,12:00p,REG,1,Michigan,Big Ten,18.99,W,82.0,61.0,,15.0,5.0,W 2,Breslin Student Events Center,Michigan State,2024-01-27,5,1,27,2024
+113,4,22,Tue Jan 30 2024,7:00p,REG,0,Rutgers,Big Ten,3.79,W,82.0,64.0,,16.0,5.0,W 3,Jersey Mike's Arena,Michigan State,2024-01-30,1,1,30,2024
+114,4,23,Mon Feb 5 2024,6:00p,REG,1,Minnesota,Big Ten,16.38,W,76.0,65.0,,17.0,5.0,W 4,Breslin Student Events Center,Michigan State,2024-02-05,0,2,5,2024
+115,4,24,Thu Feb 8 2024,7:00p,REG,0,Indiana (14),Big Ten,30.25,L,91.0,94.0,,17.0,6.0,L 1,Simon Skjodt Assembly Hall,Michigan State,2024-02-08,3,2,8,2024
+116,4,25,Sun Feb 11 2024,4:00p,REG,1,Ohio State (5),Big Ten,34.28,L,71.0,86.0,,17.0,7.0,L 2,Breslin Student Events Center,Michigan State,2024-02-11,6,2,11,2024
+117,4,26,Sun Feb 18 2024,12:00p,REG,0,Michigan,Big Ten,18.99,W,70.0,66.0,,18.0,7.0,W 1,Crisler Center,Michigan State,2024-02-18,6,2,18,2024
+118,4,27,Wed Feb 21 2024,7:00p,REG,0,Purdue,Big Ten,14.46,W,68.0,59.0,,19.0,7.0,W 2,Mackey Arena,Michigan State,2024-02-21,2,2,21,2024
+119,4,28,Sat Feb 24 2024,2:00p,REG,1,Rutgers,Big Ten,3.79,W,93.0,57.0,,20.0,7.0,W 3,Breslin Student Events Center,Michigan State,2024-02-24,5,2,24,2024
+120,4,29,Thu Feb 29 2024,8:00p,REG,1,Illinois,Big Ten,19.38,W,87.0,70.0,,21.0,7.0,W 4,Breslin Student Events Center,Michigan State,2024-02-29,3,2,29,2024
+121,4,30,Sun Mar 3 2024,2:00p,REG,0,Wisconsin,Big Ten,7.62,W,78.0,52.0,,22.0,7.0,W 5,,Michigan State,2024-03-03,6,3,3,2024
+123,5,1,Mon Nov 6 2023,1:00p,REG,1,Northwestern State,Southland,-12.04,W,90.0,42.0,,1.0,0.0,W 1,Pinnacle Bank Arena,Nebraska,2023-11-06,0,11,6,2023
+124,5,2,Fri Nov 10 2023,8:30p,REG,0,Wyoming,MWC,5.25,W,71.0,52.0,,2.0,0.0,W 2,Arena-Auditorium,Nebraska,2023-11-10,4,11,10,2023
+125,5,3,Tue Nov 14 2023,8:00p,REG,1,Alcorn State,SWAC,-17.11,W,79.0,32.0,,3.0,0.0,W 3,Pinnacle Bank Arena,Nebraska,2023-11-14,1,11,14,2023
+126,5,4,Sun Nov 19 2023,2:00p,REG,1,Creighton (22),Big East,23.83,L,74.0,79.0,,3.0,1.0,L 1,Pinnacle Bank Arena,Nebraska,2023-11-19,6,11,19,2023
+127,5,5,Thu Nov 23 2023,3:30p,REG,-1,Lamar,Southland,0.81,W,75.0,61.0,,4.0,1.0,W 1,,Nebraska,2023-11-23,3,11,23,2023
+128,5,6,Sat Nov 25 2023,1:00p,REG,-1,TCU,Big 12,19.28,L,81.0,88.0,,4.0,2.0,L 1,,Nebraska,2023-11-25,5,11,25,2023
+129,5,7,Wed Nov 29 2023,8:00p,REG,1,Florida Atlantic,AAC,-3.75,W,77.0,53.0,,5.0,2.0,W 1,Pinnacle Bank Arena,Nebraska,2023-11-29,2,11,29,2023
+130,5,8,Sat Dec 2 2023,3:00p,REG,1,Georgia Tech,ACC,13.84,W,80.0,72.0,,6.0,2.0,W 2,Pinnacle Bank Arena,Nebraska,2023-12-02,5,12,2,2023
+131,5,9,Tue Dec 5 2023,8:00p,REG,1,UNC Wilmington,CAA,-25.86,W,108.0,35.0,,7.0,2.0,W 3,Pinnacle Bank Arena,Nebraska,2023-12-05,1,12,5,2023
+132,5,10,Sat Dec 9 2023,2:00p,REG,0,Michigan State,Big Ten,28.21,W,80.0,74.0,,8.0,2.0,W 4,Breslin Student Events Center,Nebraska,2023-12-09,5,12,9,2023
+133,5,11,Sun Dec 17 2023,1:00p,REG,1,Southern,SWAC,-6.01,W,76.0,51.0,,9.0,2.0,W 5,Pinnacle Bank Arena,Nebraska,2023-12-17,6,12,17,2023
+134,5,12,Wed Dec 20 2023,7:30p,REG,0,Kansas,Big 12,20.46,L,52.0,69.0,,9.0,3.0,L 1,Allen Fieldhouse,Nebraska,2023-12-20,2,12,20,2023
+135,5,13,Sun Dec 31 2023,2:30p,REG,1,Maryland,Big Ten,22.6,W,87.0,81.0,,10.0,3.0,W 1,Pinnacle Bank Arena,Nebraska,2023-12-31,6,12,31,2023
+136,5,14,Thu Jan 4 2024,9:00p,REG,0,Wisconsin,Big Ten,7.62,W,69.0,57.0,,11.0,3.0,W 2,,Nebraska,2024-01-04,3,1,4,2024
+137,5,15,Sun Jan 7 2024,2:00p,REG,1,Indiana (14),Big Ten,30.25,L,69.0,91.0,,11.0,4.0,L 1,Pinnacle Bank Arena,Nebraska,2024-01-07,6,1,7,2024
+138,5,16,Thu Jan 11 2024,8:00p,REG,1,Illinois,Big Ten,19.38,W,56.0,48.0,,12.0,4.0,W 1,Pinnacle Bank Arena,Nebraska,2024-01-11,3,1,11,2024
+139,5,17,Sun Jan 14 2024,3:00p,REG,0,Minnesota,Big Ten,16.38,L,58.0,62.0,,12.0,5.0,L 1,Williams Arena,Nebraska,2024-01-14,6,1,14,2024
+140,5,18,Wed Jan 17 2024,8:00p,REG,1,Michigan,Big Ten,18.99,W,62.0,43.0,,13.0,5.0,W 1,Pinnacle Bank Arena,Nebraska,2024-01-17,2,1,17,2024
+141,5,19,Sun Jan 21 2024,1:00p,REG,0,Penn State,Big Ten,25.4,L,73.0,82.0,,13.0,6.0,L 1,Bryce Jordan Center,Nebraska,2024-01-21,6,1,21,2024
+142,5,20,Sat Jan 27 2024,2:00p,REG,0,Iowa (5),Big Ten,37.03,L,73.0,92.0,,13.0,7.0,L 2,Carver-Hawkeye Arena,Nebraska,2024-01-27,5,1,27,2024
+143,5,21,Wed Jan 31 2024,8:00p,REG,1,Purdue,Big Ten,14.46,W,68.0,54.0,,14.0,7.0,W 1,Pinnacle Bank Arena,Nebraska,2024-01-31,2,1,31,2024
+144,5,22,Sat Feb 3 2024,3:00p,REG,1,Rutgers,Big Ten,3.79,L,70.0,71.0,,14.0,8.0,L 1,Pinnacle Bank Arena,Nebraska,2024-02-03,5,2,3,2024
+145,5,23,Tue Feb 6 2024,7:00p,REG,0,Michigan,Big Ten,18.99,W,65.0,59.0,,15.0,8.0,W 1,Crisler Center,Nebraska,2024-02-06,1,2,6,2024
+146,5,24,Sun Feb 11 2024,1:00p,REG,1,Iowa (2),Big Ten,37.03,W,82.0,79.0,,16.0,8.0,W 2,Pinnacle Bank Arena,Nebraska,2024-02-11,6,2,11,2024
+147,5,25,Wed Feb 14 2024,7:00p,REG,0,Ohio State (2),Big Ten,34.28,L,47.0,80.0,,16.0,9.0,L 1,Value City Arena,Nebraska,2024-02-14,2,2,14,2024
+148,5,26,Sat Feb 17 2024,4:00p,REG,0,Purdue,Big Ten,14.46,W,77.0,65.0,,17.0,9.0,W 1,Mackey Arena,Nebraska,2024-02-17,5,2,17,2024
+149,5,27,Tue Feb 20 2024,9:00p,REG,1,Northwestern,Big Ten,-0.22,W,75.0,50.0,,18.0,9.0,W 2,Pinnacle Bank Arena,Nebraska,2024-02-20,1,2,20,2024
+150,5,28,Sat Feb 24 2024,5:00p,REG,1,Minnesota,Big Ten,16.38,W,70.0,51.0,,19.0,9.0,W 3,Pinnacle Bank Arena,Nebraska,2024-02-24,5,2,24,2024
+151,5,29,Sun Mar 3 2024,4:00p,REG,0,Illinois,Big Ten,19.38,L,73.0,74.0,,19.0,10.0,L 1,State Farm Center,Nebraska,2024-03-03,6,3,3,2024
+153,6,1,Mon Nov 6 2023,7:00p,REG,1,Harvard,Ivy,7.0,W,98.0,75.0,,1.0,0.0,W 1,Xfinity Center,Maryland,2023-11-06,0,11,6,2023
+154,6,2,Sun Nov 12 2023,1:00p,REG,0,South Carolina (6),SEC,46.73,L,76.0,114.0,,1.0,1.0,L 1,Colonial Life Arena,Maryland,2023-11-12,6,11,12,2023
+155,6,3,Thu Nov 16 2023,6:30p,REG,0,Connecticut (8),Big East,38.4,L,48.0,80.0,,1.0,2.0,L 2,Harry A. Gampel Pavilion,Maryland,2023-11-16,3,11,16,2023
+156,6,4,Sun Nov 19 2023,12:00p,REG,1,Syracuse,ACC,20.02,W,83.0,81.0,,2.0,2.0,W 1,Xfinity Center,Maryland,2023-11-19,6,11,19,2023
+157,6,5,Thu Nov 23 2023,11:00a,REG,-1,Washington State (23),Pac-12,24.4,L,67.0,87.0,,2.0,3.0,L 1,Hard Rock Hotel Riviera Maya,Maryland,2023-11-23,3,11,23,2023
+158,6,6,Fri Nov 24 2023,1:30p,REG,-1,Green Bay,Horizon,14.19,W,68.0,59.0,,3.0,3.0,W 1,Hard Rock Hotel Riviera Maya,Maryland,2023-11-24,4,11,24,2023
+159,6,7,Sat Nov 25 2023,11:00a,REG,-1,Massachusetts,A-10,-11.9,W,92.0,63.0,,4.0,3.0,W 2,Hard Rock Hotel Riviera Maya,Maryland,2023-11-25,5,11,25,2023
+160,6,8,Wed Nov 29 2023,7:00p,REG,1,Niagara,MAAC,-6.77,W,114.0,44.0,,5.0,3.0,W 3,Xfinity Center,Maryland,2023-11-29,2,11,29,2023
+161,6,9,Sun Dec 3 2023,1:00p,REG,1,George Mason,A-10,11.58,W,86.0,77.0,,6.0,3.0,W 4,Xfinity Center,Maryland,2023-12-03,6,12,3,2023
+162,6,10,Sun Dec 10 2023,1:00p,REG,1,Northwestern,Big Ten,-0.22,W,71.0,58.0,,7.0,3.0,W 5,Xfinity Center,Maryland,2023-12-10,6,12,10,2023
+163,6,11,Tue Dec 12 2023,11:00a,REG,1,Towson,CAA,-3.23,W,99.0,51.0,,8.0,3.0,W 6,Xfinity Center,Maryland,2023-12-12,1,12,12,2023
+164,6,12,Wed Dec 20 2023,2:00p,REG,1,James Madison,Sun Belt,4.66,W,78.0,55.0,,9.0,3.0,W 7,Xfinity Center,Maryland,2023-12-20,2,12,20,2023
+165,6,13,Sun Dec 31 2023,2:30p,REG,0,Nebraska,Big Ten,22.52,L,81.0,87.0,,9.0,4.0,L 1,Pinnacle Bank Arena,Maryland,2023-12-31,6,12,31,2023
+166,6,14,Wed Jan 3 2024,8:00p,REG,0,Minnesota,Big Ten,16.38,W,72.0,64.0,,10.0,4.0,W 1,Williams Arena,Maryland,2024-01-03,2,1,3,2024
+167,6,15,Tue Jan 9 2024,6:00p,REG,0,Michigan State,Big Ten,28.21,L,69.0,74.0,,10.0,5.0,L 1,Breslin Student Events Center,Maryland,2024-01-09,1,1,9,2024
+168,6,16,Sun Jan 14 2024,12:00p,REG,1,Purdue,Big Ten,14.46,W,88.0,66.0,,11.0,5.0,W 1,Xfinity Center,Maryland,2024-01-14,6,1,14,2024
+169,6,17,Wed Jan 17 2024,7:00p,REG,1,Ohio State (18),Big Ten,34.28,L,76.0,84.0,,11.0,6.0,L 1,Xfinity Center,Maryland,2024-01-17,2,1,17,2024
+170,6,18,Sat Jan 20 2024,1:00p,REG,1,Illinois,Big Ten,19.38,W,90.0,82.0,,12.0,6.0,W 1,Xfinity Center,Maryland,2024-01-20,5,1,20,2024
+171,6,19,Wed Jan 24 2024,7:00p,REG,0,Michigan,Big Ten,18.99,L,77.0,79.0,OT,12.0,7.0,L 1,Crisler Center,Maryland,2024-01-24,2,1,24,2024
+172,6,20,Sun Jan 28 2024,1:00p,REG,0,Penn State,Big Ten,25.4,L,76.0,112.0,,12.0,8.0,L 2,Bryce Jordan Center,Maryland,2024-01-28,6,1,28,2024
+173,6,21,Wed Jan 31 2024,7:00p,REG,1,Indiana (10),Big Ten,30.25,L,73.0,87.0,,12.0,9.0,L 3,Xfinity Center,Maryland,2024-01-31,2,1,31,2024
+174,6,22,Sat Feb 3 2024,8:00p,REG,1,Iowa (3),Big Ten,37.03,L,85.0,93.0,,12.0,10.0,L 4,Xfinity Center,Maryland,2024-02-03,5,2,3,2024
+175,6,23,Tue Feb 6 2024,8:30p,REG,0,Rutgers,Big Ten,3.79,W,67.0,59.0,,13.0,10.0,W 1,Jersey Mike's Arena,Maryland,2024-02-06,1,2,6,2024
+176,6,24,Sun Feb 11 2024,3:00p,REG,0,Illinois,Big Ten,19.38,W,69.0,53.0,,14.0,10.0,W 2,State Farm Center,Maryland,2024-02-11,6,2,11,2024
+177,6,25,Sun Feb 18 2024,1:00p,REG,1,Penn State,Big Ten,25.4,W,77.0,62.0,,15.0,10.0,W 3,Xfinity Center,Maryland,2024-02-18,6,2,18,2024
+178,6,26,Wed Feb 21 2024,7:00p,REG,1,Rutgers,Big Ten,3.79,W,81.0,62.0,,16.0,10.0,W 4,Xfinity Center,Maryland,2024-02-21,2,2,21,2024
+179,6,27,Sun Feb 25 2024,2:00p,REG,0,Ohio State (2),Big Ten,34.28,L,66.0,79.0,,16.0,11.0,L 1,Value City Arena,Maryland,2024-02-25,6,2,25,2024
+180,6,28,Thu Feb 29 2024,6:00p,REG,1,Wisconsin,Big Ten,7.62,W,79.0,63.0,,17.0,11.0,W 1,Xfinity Center,Maryland,2024-02-29,3,2,29,2024
+181,6,29,Sun Mar 3 2024,3:00p,REG,0,Indiana (14),Big Ten,30.25,L,54.0,71.0,,17.0,12.0,L 1,Simon Skjodt Assembly Hall,Maryland,2024-03-03,6,3,3,2024
+183,7,1,Mon Nov 6 2023,7:00p,REG,1,Purdue Fort Wayne,Horizon,-0.17,W,80.0,61.0,,1.0,0.0,W 1,Crisler Center,Michigan,2023-11-06,0,11,6,2023
+184,7,2,Tue Nov 14 2023,7:00p,REG,1,Oakland,Horizon,-9.04,W,80.0,39.0,,2.0,0.0,W 2,Crisler Center,Michigan,2023-11-14,1,11,14,2023
+185,7,3,Sat Nov 18 2023,5:00p,REG,-1,Middle Tennessee,CUSA,17.33,W,63.0,49.0,,3.0,0.0,W 3,Imperial Arena at Atlantis Resort,Michigan,2023-11-18,5,11,18,2023
+186,7,4,Sun Nov 19 2023,2:30p,REG,-1,South Dakota,Summit,1.2,W,70.0,52.0,,4.0,0.0,W 4,Imperial Arena at Atlantis Resort,Michigan,2023-11-19,6,11,19,2023
+187,7,5,Mon Nov 20 2023,12:00p,REG,-1,Mississippi (24),SEC,21.27,L,49.0,60.0,,4.0,1.0,L 1,Imperial Arena at Atlantis Resort,Michigan,2023-11-20,0,11,20,2023
+188,7,6,Fri Nov 24 2023,1:00p,REG,1,Eastern Michigan,MAC,-15.85,W,80.0,44.0,,5.0,1.0,W 1,Crisler Center,Michigan,2023-11-24,4,11,24,2023
+189,7,7,Wed Nov 29 2023,7:00p,REG,1,Southern Illinois-Edwardsville,OVC,-17.56,W,103.0,59.0,,6.0,1.0,W 2,Crisler Center,Michigan,2023-11-29,2,11,29,2023
+190,7,8,Sat Dec 2 2023,2:00p,REG,0,Harvard,Ivy,7.0,W,80.0,66.0,,7.0,1.0,W 3,Lavietes Pavilion,Michigan,2023-12-02,5,12,2,2023
+191,7,9,Wed Dec 6 2023,5:00p,REG,0,Toledo,MAC,10.97,L,46.0,69.0,,7.0,2.0,L 1,Savage Arena,Michigan,2023-12-06,2,12,6,2023
+192,7,10,Sun Dec 10 2023,3:00p,REG,0,Illinois,Big Ten,19.38,W,84.0,48.0,,8.0,2.0,W 1,State Farm Center,Michigan,2023-12-10,6,12,10,2023
+193,7,11,Sat Dec 16 2023,11:00a,REG,1,Miami (OH),MAC,-13.3,W,75.0,49.0,,9.0,2.0,W 2,Crisler Center,Michigan,2023-12-16,5,12,16,2023
+194,7,12,Wed Dec 20 2023,6:30p,REG,-1,Florida,SEC,16.51,L,65.0,82.0,,9.0,3.0,L 1,Spectrum Center,Michigan,2023-12-20,2,12,20,2023
+195,7,13,Fri Dec 22 2023,1:00p,REG,1,Florida A&M,SWAC,-16.68,W,77.0,35.0,,10.0,3.0,W 1,Crisler Center,Michigan,2023-12-22,4,12,22,2023
+196,7,14,Sat Dec 30 2023,12:00p,REG,1,Ohio State (17),Big Ten,34.28,W,69.0,60.0,,11.0,3.0,W 2,Crisler Center,Michigan,2023-12-30,5,12,30,2023
+197,7,15,Thu Jan 4 2024,7:00p,REG,0,Indiana (14),Big Ten,30.25,L,59.0,80.0,,11.0,4.0,L 1,Simon Skjodt Assembly Hall,Michigan,2024-01-04,3,1,4,2024
+198,7,16,Tue Jan 9 2024,8:00p,REG,1,Minnesota,Big Ten,16.38,L,66.0,82.0,,11.0,5.0,L 2,Crisler Center,Michigan,2024-01-09,1,1,9,2024
+199,7,17,Sat Jan 13 2024,2:00p,REG,1,Wisconsin,Big Ten,7.62,W,76.0,52.0,,12.0,5.0,W 1,Crisler Center,Michigan,2024-01-13,5,1,13,2024
+200,7,18,Wed Jan 17 2024,8:00p,REG,0,Nebraska,Big Ten,22.52,L,43.0,62.0,,12.0,6.0,L 1,Pinnacle Bank Arena,Michigan,2024-01-17,2,1,17,2024
+201,7,19,Sun Jan 21 2024,2:00p,REG,0,Rutgers,Big Ten,3.79,W,56.0,50.0,,13.0,6.0,W 1,Jersey Mike's Arena,Michigan,2024-01-21,6,1,21,2024
+202,7,20,Wed Jan 24 2024,7:00p,REG,1,Maryland,Big Ten,22.6,W,79.0,77.0,OT,14.0,6.0,W 2,Crisler Center,Michigan,2024-01-24,2,1,24,2024
+203,7,21,Sat Jan 27 2024,12:00p,REG,0,Michigan State,Big Ten,28.21,L,61.0,82.0,,14.0,7.0,L 1,Breslin Student Events Center,Michigan,2024-01-27,5,1,27,2024
+204,7,22,Wed Jan 31 2024,7:00p,REG,1,Illinois,Big Ten,19.38,L,64.0,77.0,,14.0,8.0,L 2,Crisler Center,Michigan,2024-01-31,2,1,31,2024
+205,7,23,Sat Feb 3 2024,6:00p,REG,0,Penn State,Big Ten,25.4,W,80.0,75.0,,15.0,8.0,W 1,Bryce Jordan Center,Michigan,2024-02-03,5,2,3,2024
+206,7,24,Tue Feb 6 2024,7:00p,REG,1,Nebraska,Big Ten,22.52,L,59.0,65.0,,15.0,9.0,L 1,Crisler Center,Michigan,2024-02-06,1,2,6,2024
+207,7,25,Sat Feb 10 2024,2:00p,REG,1,Rutgers,Big Ten,3.79,W,86.0,58.0,,16.0,9.0,W 1,Crisler Center,Michigan,2024-02-10,5,2,10,2024
+208,7,26,Thu Feb 15 2024,8:00p,REG,0,Iowa (4),Big Ten,37.03,L,89.0,106.0,,16.0,10.0,L 1,Carver-Hawkeye Arena,Michigan,2024-02-15,3,2,15,2024
+209,7,27,Sun Feb 18 2024,12:00p,REG,1,Michigan State,Big Ten,28.21,L,66.0,70.0,,16.0,11.0,L 2,Crisler Center,Michigan,2024-02-18,6,2,18,2024
+210,7,28,Sat Feb 24 2024,3:00p,REG,0,Northwestern,Big Ten,-0.22,W,74.0,60.0,,17.0,11.0,W 1,Welsh-Ryan Arena,Michigan,2024-02-24,5,2,24,2024
+211,7,29,Wed Feb 28 2024,7:00p,REG,0,Ohio State (2),Big Ten,34.28,L,51.0,67.0,,17.0,12.0,L 1,Value City Arena,Michigan,2024-02-28,2,2,28,2024
+212,7,30,Sun Mar 3 2024,7:00p,REG,1,Purdue,Big Ten,14.46,W,64.0,60.0,,18.0,12.0,W 1,Crisler Center,Michigan,2024-03-03,6,3,3,2024
+214,8,1,Tue Nov 7 2023,6:00p,REG,1,Bucknell,Patriot,-12.13,W,94.0,51.0,,1.0,0.0,W 1,Bryce Jordan Center,Penn State,2023-11-07,1,11,7,2023
+215,8,2,Fri Nov 10 2023,5:00p,REG,1,Navy,Patriot,-16.69,W,107.0,44.0,,2.0,0.0,W 2,Bryce Jordan Center,Penn State,2023-11-10,4,11,10,2023
+216,8,3,Mon Nov 13 2023,6:00p,REG,1,Kansas,Big 12,20.46,W,91.0,85.0,,3.0,0.0,W 3,Bryce Jordan Center,Penn State,2023-11-13,0,11,13,2023
+217,8,4,Thu Nov 16 2023,7:00p,REG,0,St. John's (NY),Big East,9.5,W,69.0,53.0,,4.0,0.0,W 4,Carnesecca Arena,Penn State,2023-11-16,3,11,16,2023
+218,8,5,Mon Nov 20 2023,6:30p,REG,-1,Oklahoma State,Big 12,17.76,W,89.0,80.0,,5.0,0.0,W 5,Baha Mar Convention Center,Penn State,2023-11-20,0,11,20,2023
+219,8,6,Wed Nov 22 2023,9:00p,REG,-1,Southern California (8),Pac-12,30.17,L,70.0,71.0,,5.0,1.0,L 1,Baha Mar Convention Center,Penn State,2023-11-22,2,11,22,2023
+220,8,7,Sun Nov 26 2023,1:00p,REG,1,Providence,Big East,5.0,W,73.0,66.0,,6.0,1.0,W 1,Bryce Jordan Center,Penn State,2023-11-26,6,11,26,2023
+221,8,8,Wed Nov 29 2023,6:00p,REG,1,Radford,Big South,-16.02,W,97.0,47.0,,7.0,1.0,W 2,Bryce Jordan Center,Penn State,2023-11-29,2,11,29,2023
+222,8,9,Mon Dec 4 2023,6:00p,REG,0,West Virginia,Big 12,28.34,L,65.0,83.0,,7.0,2.0,L 1,WVU Coliseum,Penn State,2023-12-04,0,12,4,2023
+223,8,10,Sun Dec 10 2023,1:00p,REG,0,Ohio State (12),Big Ten,34.28,L,84.0,94.0,OT,7.0,3.0,L 2,Value City Arena,Penn State,2023-12-10,6,12,10,2023
+224,8,11,Sun Dec 17 2023,1:00p,REG,1,Saint Francis (PA),NEC,-31.56,W,119.0,43.0,,8.0,3.0,W 1,Bryce Jordan Center,Penn State,2023-12-17,6,12,17,2023
+225,8,12,Wed Dec 20 2023,11:30a,REG,1,Central Connecticut State,NEC,-20.1,W,101.0,73.0,,9.0,3.0,W 2,Bryce Jordan Center,Penn State,2023-12-20,2,12,20,2023
+226,8,13,Sat Dec 30 2023,4:00p,REG,1,Michigan State,Big Ten,28.21,L,87.0,98.0,,9.0,4.0,L 1,Bryce Jordan Center,Penn State,2023-12-30,5,12,30,2023
+227,8,14,Tue Jan 2 2024,6:00p,REG,1,Northwestern,Big Ten,-0.22,W,95.0,55.0,,10.0,4.0,W 1,Bryce Jordan Center,Penn State,2024-01-02,1,1,2,2024
+228,8,15,Wed Jan 10 2024,7:00p,REG,0,Indiana (14),Big Ten,30.25,L,67.0,75.0,,10.0,5.0,L 1,Simon Skjodt Assembly Hall,Penn State,2024-01-10,2,1,10,2024
+229,8,16,Sun Jan 14 2024,2:00p,REG,0,Rutgers,Big Ten,3.79,W,94.0,80.0,,11.0,5.0,W 1,Jersey Mike's Arena,Penn State,2024-01-14,6,1,14,2024
+230,8,17,Thu Jan 18 2024,7:00p,REG,1,Purdue,Big Ten,14.46,W,80.0,67.0,,12.0,5.0,W 2,Bryce Jordan Center,Penn State,2024-01-18,3,1,18,2024
+231,8,18,Sun Jan 21 2024,1:00p,REG,1,Nebraska,Big Ten,22.52,W,82.0,73.0,,13.0,5.0,W 3,Bryce Jordan Center,Penn State,2024-01-21,6,1,21,2024
+232,8,19,Thu Jan 25 2024,8:00p,REG,0,Northwestern,Big Ten,-0.22,W,76.0,65.0,,14.0,5.0,W 4,Welsh-Ryan Arena,Penn State,2024-01-25,3,1,25,2024
+233,8,20,Sun Jan 28 2024,1:00p,REG,1,Maryland,Big Ten,22.6,W,112.0,76.0,,15.0,5.0,W 5,Bryce Jordan Center,Penn State,2024-01-28,6,1,28,2024
+234,8,21,Wed Jan 31 2024,8:00p,REG,0,Minnesota,Big Ten,16.38,W,80.0,64.0,,16.0,5.0,W 6,Williams Arena,Penn State,2024-01-31,2,1,31,2024
+235,8,22,Sat Feb 3 2024,6:00p,REG,1,Michigan,Big Ten,18.99,L,75.0,80.0,,16.0,6.0,L 1,Bryce Jordan Center,Penn State,2024-02-03,5,2,3,2024
+236,8,23,Thu Feb 8 2024,9:00p,REG,0,Iowa (2),Big Ten,37.03,L,93.0,111.0,,16.0,7.0,L 2,Carver-Hawkeye Arena,Penn State,2024-02-08,3,2,8,2024
+237,8,24,Sun Feb 11 2024,3:00p,REG,0,Wisconsin,Big Ten,7.62,L,64.0,69.0,,16.0,8.0,L 3,,Penn State,2024-02-11,6,2,11,2024
+238,8,25,Thu Feb 15 2024,6:00p,REG,1,Illinois,Big Ten,19.38,L,71.0,86.0,,16.0,9.0,L 4,Bryce Jordan Center,Penn State,2024-02-15,3,2,15,2024
+239,8,26,Sun Feb 18 2024,1:00p,REG,0,Maryland,Big Ten,22.6,L,62.0,77.0,,16.0,10.0,L 5,Xfinity Center,Penn State,2024-02-18,6,2,18,2024
+240,8,27,Thu Feb 22 2024,6:00p,REG,1,Ohio State (2),Big Ten,34.28,L,69.0,82.0,,16.0,11.0,L 6,,Penn State,2024-02-22,3,2,22,2024
+241,8,28,Wed Feb 28 2024,7:00p,REG,0,Purdue,Big Ten,14.46,W,93.0,88.0,,17.0,11.0,W 1,Mackey Arena,Penn State,2024-02-28,2,2,28,2024
+242,8,29,Sun Mar 3 2024,1:00p,REG,1,Minnesota,Big Ten,16.38,W,90.0,34.0,,18.0,11.0,W 2,Bryce Jordan Center,Penn State,2024-03-03,6,3,3,2024
+244,9,1,Tue Nov 7 2023,7:00p,REG,1,Morehead State,OVC,-8.41,W,81.0,61.0,,1.0,0.0,W 1,State Farm Center,Illinois,2023-11-07,1,11,7,2023
+245,9,2,Sat Nov 11 2023,3:00p,REG,0,Marquette,Big East,20.04,L,67.0,71.0,,1.0,1.0,L 1,Al McGuire Center,Illinois,2023-11-11,5,11,11,2023
+246,9,3,Wed Nov 15 2023,12:00p,REG,1,Saint Peter's,MAAC,-22.85,W,103.0,33.0,,2.0,1.0,W 1,State Farm Center,Illinois,2023-11-15,2,11,15,2023
+247,9,4,Sat Nov 18 2023,1:00p,REG,-1,Notre Dame (16),ACC,32.47,L,68.0,79.0,,2.0,2.0,L 1,,Illinois,2023-11-18,5,11,18,2023
+248,9,5,Sun Nov 26 2023,2:00p,REG,1,Canisius,MAAC,-10.77,W,90.0,58.0,,3.0,2.0,W 1,State Farm Center,Illinois,2023-11-26,6,11,26,2023
+249,9,6,Wed Nov 29 2023,7:00p,REG,1,Central Connecticut State,NEC,-20.1,W,89.0,50.0,,4.0,2.0,W 2,State Farm Center,Illinois,2023-11-29,2,11,29,2023
+250,9,7,Wed Dec 6 2023,7:00p,REG,1,Northern Kentucky,Horizon,-7.37,W,74.0,52.0,,5.0,2.0,W 3,State Farm Center,Illinois,2023-12-06,2,12,6,2023
+251,9,8,Sun Dec 10 2023,3:00p,REG,1,Michigan,Big Ten,18.99,L,48.0,84.0,,5.0,3.0,L 1,State Farm Center,Illinois,2023-12-10,6,12,10,2023
+252,9,9,Sun Dec 17 2023,4:00p,REG,1,Missouri,SEC,12.45,L,66.0,69.0,,5.0,4.0,L 2,State Farm Center,Illinois,2023-12-17,6,12,17,2023
+253,9,10,Wed Dec 20 2023,11:00a,REG,-1,Arkansas,SEC,14.38,L,59.0,60.0,,5.0,5.0,L 3,,Illinois,2023-12-20,2,12,20,2023
+254,9,11,Thu Dec 21 2023,1:15p,REG,-1,UTEP,CUSA,-4.78,W,81.0,71.0,,6.0,5.0,W 1,,Illinois,2023-12-21,3,12,21,2023
+255,9,12,Sun Dec 31 2023,12:30p,REG,0,Indiana (16),Big Ten,30.25,L,71.0,77.0,,6.0,6.0,L 1,Simon Skjodt Assembly Hall,Illinois,2023-12-31,6,12,31,2023
+256,9,13,Sun Jan 7 2024,3:00p,REG,1,Wisconsin,Big Ten,7.62,L,61.0,67.0,,6.0,7.0,L 2,State Farm Center,Illinois,2024-01-07,6,1,7,2024
+257,9,14,Thu Jan 11 2024,8:00p,REG,0,Nebraska,Big Ten,22.52,L,48.0,56.0,,6.0,8.0,L 3,Pinnacle Bank Arena,Illinois,2024-01-11,3,1,11,2024
+258,9,15,Sun Jan 14 2024,3:00p,REG,0,Northwestern,Big Ten,-0.22,W,93.0,52.0,,7.0,8.0,W 1,Welsh-Ryan Arena,Illinois,2024-01-14,6,1,14,2024
+259,9,16,Wed Jan 17 2024,7:00p,REG,1,Rutgers,Big Ten,3.79,W,96.0,68.0,,8.0,8.0,W 2,State Farm Center,Illinois,2024-01-17,2,1,17,2024
+260,9,17,Sat Jan 20 2024,1:00p,REG,0,Maryland,Big Ten,22.6,L,82.0,90.0,,8.0,9.0,L 1,Xfinity Center,Illinois,2024-01-20,5,1,20,2024
+261,9,18,Thu Jan 25 2024,7:00p,REG,1,Ohio State (12),Big Ten,34.28,L,59.0,67.0,,8.0,10.0,L 2,State Farm Center,Illinois,2024-01-25,3,1,25,2024
+262,9,19,Sun Jan 28 2024,3:00p,REG,1,Minnesota,Big Ten,16.38,W,73.0,68.0,,9.0,10.0,W 1,State Farm Center,Illinois,2024-01-28,6,1,28,2024
+263,9,20,Wed Jan 31 2024,7:00p,REG,0,Michigan,Big Ten,18.99,W,77.0,64.0,,10.0,10.0,W 2,Crisler Center,Illinois,2024-01-31,2,1,31,2024
+264,9,21,Mon Feb 5 2024,8:00p,REG,0,Purdue,Big Ten,14.46,L,72.0,77.0,OT,10.0,11.0,L 1,Mackey Arena,Illinois,2024-02-05,0,2,5,2024
+265,9,22,Thu Feb 8 2024,7:00p,REG,1,Northwestern,Big Ten,-0.22,W,82.0,71.0,,11.0,11.0,W 1,State Farm Center,Illinois,2024-02-08,3,2,8,2024
+266,9,23,Sun Feb 11 2024,3:00p,REG,1,Maryland,Big Ten,22.6,L,53.0,69.0,,11.0,12.0,L 1,State Farm Center,Illinois,2024-02-11,6,2,11,2024
+267,9,24,Thu Feb 15 2024,6:00p,REG,0,Penn State,Big Ten,25.4,W,86.0,71.0,,12.0,12.0,W 1,Bryce Jordan Center,Illinois,2024-02-15,3,2,15,2024
+268,9,25,Mon Feb 19 2024,2:00p,REG,1,Indiana (14),Big Ten,30.25,W,86.0,66.0,,13.0,12.0,W 2,State Farm Center,Illinois,2024-02-19,0,2,19,2024
+269,9,26,Sun Feb 25 2024,1:00p,REG,0,Iowa (4),Big Ten,37.03,L,85.0,101.0,,13.0,13.0,L 1,Carver-Hawkeye Arena,Illinois,2024-02-25,6,2,25,2024
+270,9,27,Thu Feb 29 2024,8:00p,REG,0,Michigan State,Big Ten,28.21,L,70.0,87.0,,13.0,14.0,L 2,Breslin Student Events Center,Illinois,2024-02-29,3,2,29,2024
+271,9,28,Sun Mar 3 2024,4:00p,REG,1,Nebraska,Big Ten,22.52,W,74.0,73.0,,14.0,14.0,W 1,State Farm Center,Illinois,2024-03-03,6,3,3,2024
+273,10,1,Tue Nov 7 2023,7:30p,REG,1,Milwaukee,Horizon,-4.31,W,62.0,51.0,,1.0,0.0,W 1,,Wisconsin,2023-11-07,1,11,7,2023
+274,10,2,Thu Nov 9 2023,8:00p,REG,1,Western Illinois,OVC,-8.58,W,74.0,52.0,,2.0,0.0,W 2,,Wisconsin,2023-11-09,3,11,9,2023
+275,10,3,Tue Nov 14 2023,7:30p,REG,1,South Dakota State,Summit,14.26,W,66.0,64.0,,3.0,0.0,W 3,,Wisconsin,2023-11-14,1,11,14,2023
+276,10,4,Sun Nov 19 2023,5:00p,REG,0,Kansas State,Big 12,29.22,L,57.0,75.0,,3.0,1.0,L 1,Bramlage Coliseum,Wisconsin,2023-11-19,6,11,19,2023
+277,10,5,Fri Nov 24 2023,2:00p,REG,-1,Arkansas,SEC,14.38,L,62.0,65.0,,3.0,2.0,L 2,Suncoast Credit Union Arena,Wisconsin,2023-11-24,4,11,24,2023
+278,10,6,Sat Nov 25 2023,7:30p,REG,-1,Boston College,ACC,11.84,W,82.0,72.0,,4.0,2.0,W 1,Suncoast Credit Union Arena,Wisconsin,2023-11-25,5,11,25,2023
+279,10,7,Wed Nov 29 2023,7:30p,REG,1,Northern Illinois,MAC,-10.08,W,75.0,54.0,,5.0,2.0,W 2,,Wisconsin,2023-11-29,2,11,29,2023
+280,10,8,Sun Dec 3 2023,1:00p,REG,1,Butler,Big East,5.5,L,51.0,59.0,,5.0,3.0,L 1,,Wisconsin,2023-12-03,6,12,3,2023
+281,10,9,Sun Dec 10 2023,2:30p,REG,1,Iowa (4),Big Ten,37.03,L,65.0,87.0,,5.0,4.0,L 2,,Wisconsin,2023-12-10,6,12,10,2023
+282,10,10,Wed Dec 13 2023,8:00p,REG,0,St. Thomas,Summit,-7.62,W,78.0,55.0,,6.0,4.0,W 1,Schoenecker Arena,Wisconsin,2023-12-13,2,12,13,2023
+283,10,11,Thu Dec 21 2023,7:30p,REG,1,Eastern Illinois,OVC,-9.8,W,76.0,64.0,,7.0,4.0,W 2,,Wisconsin,2023-12-21,3,12,21,2023
+284,10,12,Sat Dec 30 2023,6:00p,REG,0,Purdue,Big Ten,14.46,L,50.0,89.0,,7.0,5.0,L 1,Mackey Arena,Wisconsin,2023-12-30,5,12,30,2023
+285,10,13,Thu Jan 4 2024,9:00p,REG,1,Nebraska,Big Ten,22.52,L,57.0,69.0,,7.0,6.0,L 2,,Wisconsin,2024-01-04,3,1,4,2024
+286,10,14,Sun Jan 7 2024,3:00p,REG,0,Illinois,Big Ten,19.38,W,67.0,61.0,,8.0,6.0,W 1,State Farm Center,Wisconsin,2024-01-07,6,1,7,2024
+287,10,15,Wed Jan 10 2024,7:30p,REG,1,Northwestern,Big Ten,-0.22,L,69.0,74.0,,8.0,7.0,L 1,,Wisconsin,2024-01-10,2,1,10,2024
+288,10,16,Sat Jan 13 2024,2:00p,REG,0,Michigan,Big Ten,18.99,L,52.0,76.0,,8.0,8.0,L 2,Crisler Center,Wisconsin,2024-01-13,5,1,13,2024
+289,10,17,Tue Jan 16 2024,9:00p,REG,0,Iowa (2),Big Ten,37.03,L,50.0,96.0,,8.0,9.0,L 3,Carver-Hawkeye Arena,Wisconsin,2024-01-16,1,1,16,2024
+290,10,18,Tue Jan 23 2024,9:00p,REG,1,Minnesota,Big Ten,16.38,W,59.0,56.0,,9.0,9.0,W 1,,Wisconsin,2024-01-23,1,1,23,2024
+291,10,19,Sat Jan 27 2024,3:00p,REG,1,Rutgers,Big Ten,3.79,W,73.0,62.0,,10.0,9.0,W 2,,Wisconsin,2024-01-27,5,1,27,2024
+292,10,20,Thu Feb 1 2024,6:00p,REG,0,Ohio State (8),Big Ten,34.28,L,49.0,87.0,,10.0,10.0,L 1,Value City Arena,Wisconsin,2024-02-01,3,2,1,2024
+293,10,21,Sun Feb 4 2024,3:00p,REG,0,Northwestern,Big Ten,-0.22,L,43.0,69.0,,10.0,11.0,L 2,Welsh-Ryan Arena,Wisconsin,2024-02-04,6,2,4,2024
+294,10,22,Sun Feb 11 2024,3:00p,REG,1,Penn State,Big Ten,25.4,W,69.0,64.0,,11.0,11.0,W 1,,Wisconsin,2024-02-11,6,2,11,2024
+295,10,23,Wed Feb 14 2024,8:00p,REG,1,Indiana (14),Big Ten,30.25,L,54.0,68.0,,11.0,12.0,L 1,,Wisconsin,2024-02-14,2,2,14,2024
+296,10,24,Sat Feb 17 2024,2:00p,REG,0,Rutgers,Big Ten,3.79,W,61.0,43.0,,12.0,12.0,W 1,Jersey Mike's Arena,Wisconsin,2024-02-17,5,2,17,2024
+297,10,25,Tue Feb 20 2024,7:00p,REG,0,Minnesota,Big Ten,16.38,W,67.0,56.0,,13.0,12.0,W 2,Williams Arena,Wisconsin,2024-02-20,1,2,20,2024
+298,10,26,Sun Feb 25 2024,4:00p,REG,1,Purdue,Big Ten,14.46,L,55.0,79.0,,13.0,13.0,L 1,,Wisconsin,2024-02-25,6,2,25,2024
+299,10,27,Thu Feb 29 2024,6:00p,REG,0,Maryland,Big Ten,22.6,L,63.0,79.0,,13.0,14.0,L 2,Xfinity Center,Wisconsin,2024-02-29,3,2,29,2024
+300,10,28,Sun Mar 3 2024,2:00p,REG,1,Michigan State,Big Ten,28.21,L,52.0,78.0,,13.0,15.0,L 3,,Wisconsin,2024-03-03,6,3,3,2024
+302,11,1,Wed Nov 8 2023,8:00p,REG,1,Long Island University,NEC,-26.41,W,92.0,57.0,,1.0,0.0,W 1,Williams Arena,Minnesota,2023-11-08,2,11,8,2023
+303,11,2,Sun Nov 12 2023,2:00p,REG,1,Chicago State,Ind,-31.11,W,100.0,42.0,,2.0,0.0,W 2,Williams Arena,Minnesota,2023-11-12,6,11,12,2023
+304,11,3,Wed Nov 15 2023,8:00p,REG,1,North Dakota State,Summit,5.18,W,75.0,53.0,,3.0,0.0,W 3,Williams Arena,Minnesota,2023-11-15,2,11,15,2023
+305,11,4,Sun Nov 19 2023,5:00p,REG,1,Connecticut (8),Big East,38.4,L,44.0,62.0,,3.0,1.0,L 1,Williams Arena,Minnesota,2023-11-19,6,11,19,2023
+306,11,5,Wed Nov 22 2023,8:00p,REG,1,Cal State Northridge,Big West,-17.99,W,84.0,31.0,,4.0,1.0,W 1,Williams Arena,Minnesota,2023-11-22,2,11,22,2023
+307,11,6,Sun Nov 26 2023,3:00p,REG,1,Stony Brook,CAA,10.17,W,67.0,54.0,,5.0,1.0,W 2,Williams Arena,Minnesota,2023-11-26,6,11,26,2023
+308,11,7,Wed Nov 29 2023,8:00p,REG,1,Norfolk State,MEAC,1.09,W,74.0,43.0,,6.0,1.0,W 3,Williams Arena,Minnesota,2023-11-29,2,11,29,2023
+309,11,8,Sat Dec 2 2023,2:00p,REG,1,Drake,MVC,13.19,W,94.0,88.0,2OT,7.0,1.0,W 4,Williams Arena,Minnesota,2023-12-02,5,12,2,2023
+310,11,9,Wed Dec 6 2023,7:00p,REG,0,Kentucky,SEC,4.04,W,76.0,57.0,,8.0,1.0,W 5,Memorial Coliseum,Minnesota,2023-12-06,2,12,6,2023
+311,11,10,Sun Dec 10 2023,2:00p,REG,1,Purdue,Big Ten,14.46,W,60.0,58.0,,9.0,1.0,W 6,Williams Arena,Minnesota,2023-12-10,6,12,10,2023
+312,11,11,Wed Dec 13 2023,12:00p,REG,1,Grambling,SWAC,-6.65,W,96.0,64.0,,10.0,1.0,W 7,Williams Arena,Minnesota,2023-12-13,2,12,13,2023
+313,11,12,Thu Dec 21 2023,4:00p,REG,1,Lindenwood,OVC,-16.92,W,100.0,45.0,,11.0,1.0,W 8,Williams Arena,Minnesota,2023-12-21,3,12,21,2023
+314,11,13,Sat Dec 30 2023,2:00p,REG,0,Iowa (4),Big Ten,37.03,L,71.0,94.0,,11.0,2.0,L 1,Carver-Hawkeye Arena,Minnesota,2023-12-30,5,12,30,2023
+315,11,14,Wed Jan 3 2024,8:00p,REG,1,Maryland,Big Ten,22.6,L,64.0,72.0,,11.0,3.0,L 2,Williams Arena,Minnesota,2024-01-03,2,1,3,2024
+316,11,15,Tue Jan 9 2024,8:00p,REG,0,Michigan,Big Ten,18.99,W,82.0,66.0,,12.0,3.0,W 1,Crisler Center,Minnesota,2024-01-09,1,1,9,2024
+317,11,16,Sun Jan 14 2024,3:00p,REG,1,Nebraska,Big Ten,22.52,W,62.0,58.0,,13.0,3.0,W 2,Williams Arena,Minnesota,2024-01-14,6,1,14,2024
+318,11,17,Wed Jan 17 2024,8:00p,REG,0,Indiana (16),Big Ten,30.25,L,62.0,85.0,,13.0,4.0,L 1,Simon Skjodt Assembly Hall,Minnesota,2024-01-17,2,1,17,2024
+319,11,18,Sat Jan 20 2024,3:00p,REG,1,Michigan State,Big Ten,28.21,W,69.0,50.0,,14.0,4.0,W 1,Williams Arena,Minnesota,2024-01-20,5,1,20,2024
+320,11,19,Tue Jan 23 2024,9:00p,REG,0,Wisconsin,Big Ten,7.62,L,56.0,59.0,,14.0,5.0,L 1,,Minnesota,2024-01-23,1,1,23,2024
+321,11,20,Sun Jan 28 2024,3:00p,REG,0,Illinois,Big Ten,19.38,L,68.0,73.0,,14.0,6.0,L 2,State Farm Center,Minnesota,2024-01-28,6,1,28,2024
+322,11,21,Wed Jan 31 2024,8:00p,REG,1,Penn State,Big Ten,25.4,L,64.0,80.0,,14.0,7.0,L 3,Williams Arena,Minnesota,2024-01-31,2,1,31,2024
+323,11,22,Mon Feb 5 2024,6:00p,REG,0,Michigan State,Big Ten,28.21,L,65.0,76.0,,14.0,8.0,L 4,Breslin Student Events Center,Minnesota,2024-02-05,0,2,5,2024
+324,11,23,Thu Feb 8 2024,9:00p,REG,1,Ohio State (5),Big Ten,34.28,L,47.0,71.0,,14.0,9.0,L 5,Williams Arena,Minnesota,2024-02-08,3,2,8,2024
+325,11,24,Tue Feb 13 2024,7:00p,REG,0,Rutgers,Big Ten,3.79,L,73.0,81.0,,14.0,10.0,L 6,Jersey Mike's Arena,Minnesota,2024-02-13,1,2,13,2024
+326,11,25,Sat Feb 17 2024,3:00p,REG,1,Northwestern,Big Ten,-0.22,W,88.0,63.0,,15.0,10.0,W 1,Williams Arena,Minnesota,2024-02-17,5,2,17,2024
+327,11,26,Tue Feb 20 2024,7:00p,REG,1,Wisconsin,Big Ten,7.62,L,56.0,67.0,,15.0,11.0,L 1,Williams Arena,Minnesota,2024-02-20,1,2,20,2024
+328,11,27,Sat Feb 24 2024,5:00p,REG,0,Nebraska,Big Ten,22.52,L,51.0,70.0,,15.0,12.0,L 2,Pinnacle Bank Arena,Minnesota,2024-02-24,5,2,24,2024
+329,11,28,Wed Feb 28 2024,9:00p,REG,1,Iowa (6),Big Ten,37.03,L,60.0,108.0,,15.0,13.0,L 3,Williams Arena,Minnesota,2024-02-28,2,2,28,2024
+330,11,29,Sun Mar 3 2024,1:00p,REG,0,Penn State,Big Ten,25.4,L,34.0,90.0,,15.0,14.0,L 4,Bryce Jordan Center,Minnesota,2024-03-03,6,3,3,2024
+332,12,1,Mon Nov 6 2023,8:30p,REG,0,UCLA (4),Pac-12,35.86,L,49.0,92.0,,0.0,1.0,L 1,Pauley Pavilion,Purdue,2023-11-06,0,11,6,2023
+333,12,2,Sun Nov 12 2023,4:00p,REG,1,Southern,SWAC,-6.01,W,67.0,50.0,,1.0,1.0,W 1,Mackey Arena,Purdue,2023-11-12,6,11,12,2023
+334,12,3,Thu Nov 16 2023,7:00p,REG,1,Texas A&M,SEC,20.57,W,72.0,58.0,,2.0,1.0,W 2,Mackey Arena,Purdue,2023-11-16,3,11,16,2023
+335,12,4,Mon Nov 20 2023,4:00p,REG,-1,Florida,SEC,16.51,L,49.0,52.0,,2.0,2.0,L 1,Baha Mar Convention Center,Purdue,2023-11-20,0,11,20,2023
+336,12,5,Wed Nov 22 2023,4:00p,REG,-1,Georgia,SEC,10.58,L,57.0,65.0,,2.0,3.0,L 2,Baha Mar Convention Center,Purdue,2023-11-22,2,11,22,2023
+337,12,6,Sun Nov 26 2023,2:00p,REG,1,Southern Indiana,OVC,-0.66,W,95.0,57.0,,3.0,3.0,W 1,Mackey Arena,Purdue,2023-11-26,6,11,26,2023
+338,12,7,Fri Dec 1 2023,7:00p,REG,0,Dayton,A-10,-8.69,W,67.0,59.0,,4.0,3.0,W 2,University of Dayton Arena,Purdue,2023-12-01,4,12,1,2023
+339,12,8,Sun Dec 3 2023,2:00p,REG,1,Valparaiso,MVC,-14.3,W,83.0,56.0,,5.0,3.0,W 3,Mackey Arena,Purdue,2023-12-03,6,12,3,2023
+340,12,9,Wed Dec 6 2023,7:00p,REG,1,Southeast Missouri State,OVC,-13.48,W,83.0,57.0,,6.0,3.0,W 4,Mackey Arena,Purdue,2023-12-06,2,12,6,2023
+341,12,10,Sun Dec 10 2023,2:00p,REG,0,Minnesota,Big Ten,16.38,L,58.0,60.0,,6.0,4.0,L 1,Williams Arena,Purdue,2023-12-10,6,12,10,2023
+342,12,11,Sun Dec 17 2023,12:00p,REG,0,Notre Dame (14),ACC,32.47,L,39.0,76.0,,6.0,5.0,L 2,Purcell Pavilion at the Joyce Center,Purdue,2023-12-17,6,12,17,2023
+343,12,12,Wed Dec 20 2023,11:00a,REG,1,Indiana State,MVC,-8.71,W,79.0,63.0,,7.0,5.0,W 1,Mackey Arena,Purdue,2023-12-20,2,12,20,2023
+344,12,13,Sat Dec 30 2023,6:00p,REG,1,Wisconsin,Big Ten,7.62,W,89.0,50.0,,8.0,5.0,W 2,Mackey Arena,Purdue,2023-12-30,5,12,30,2023
+345,12,14,Tue Jan 2 2024,7:00p,REG,1,Rutgers,Big Ten,3.79,W,77.0,76.0,,9.0,5.0,W 3,Mackey Arena,Purdue,2024-01-02,1,1,2,2024
+346,12,15,Wed Jan 10 2024,8:00p,REG,1,Iowa (3),Big Ten,37.03,L,71.0,96.0,,9.0,6.0,L 1,Mackey Arena,Purdue,2024-01-10,2,1,10,2024
+347,12,16,Sun Jan 14 2024,12:00p,REG,0,Maryland,Big Ten,22.6,L,66.0,88.0,,9.0,7.0,L 2,Xfinity Center,Purdue,2024-01-14,6,1,14,2024
+348,12,17,Thu Jan 18 2024,7:00p,REG,0,Penn State,Big Ten,25.4,L,67.0,80.0,,9.0,8.0,L 3,Bryce Jordan Center,Purdue,2024-01-18,3,1,18,2024
+349,12,18,Sun Jan 21 2024,2:00p,REG,1,Indiana (16),Big Ten,30.25,L,68.0,74.0,,9.0,9.0,L 4,Mackey Arena,Purdue,2024-01-21,6,1,21,2024
+350,12,19,Wed Jan 24 2024,6:30p,REG,0,Michigan State,Big Ten,28.21,L,70.0,97.0,,9.0,10.0,L 5,Breslin Student Events Center,Purdue,2024-01-24,2,1,24,2024
+351,12,20,Sun Jan 28 2024,2:00p,REG,1,Ohio State (12),Big Ten,34.28,L,68.0,71.0,,9.0,11.0,L 6,Mackey Arena,Purdue,2024-01-28,6,1,28,2024
+352,12,21,Wed Jan 31 2024,8:00p,REG,0,Nebraska,Big Ten,22.52,L,54.0,68.0,,9.0,12.0,L 7,Pinnacle Bank Arena,Purdue,2024-01-31,2,1,31,2024
+353,12,22,Mon Feb 5 2024,8:00p,REG,1,Illinois,Big Ten,19.38,W,77.0,72.0,OT,10.0,12.0,W 1,Mackey Arena,Purdue,2024-02-05,0,2,5,2024
+354,12,23,Sun Feb 11 2024,2:00p,REG,0,Indiana (14),Big Ten,30.25,L,62.0,95.0,,10.0,13.0,L 1,Simon Skjodt Assembly Hall,Purdue,2024-02-11,6,2,11,2024
+355,12,24,Wed Feb 14 2024,8:00p,REG,0,Northwestern,Big Ten,-0.22,W,74.0,48.0,,11.0,13.0,W 1,Welsh-Ryan Arena,Purdue,2024-02-14,2,2,14,2024
+356,12,25,Sat Feb 17 2024,4:00p,REG,1,Nebraska,Big Ten,22.52,L,65.0,77.0,,11.0,14.0,L 1,Mackey Arena,Purdue,2024-02-17,5,2,17,2024
+357,12,26,Wed Feb 21 2024,7:00p,REG,1,Michigan State,Big Ten,28.21,L,59.0,68.0,,11.0,15.0,L 2,Mackey Arena,Purdue,2024-02-21,2,2,21,2024
+358,12,27,Sun Feb 25 2024,4:00p,REG,0,Wisconsin,Big Ten,7.62,W,79.0,55.0,,12.0,15.0,W 1,,Purdue,2024-02-25,6,2,25,2024
+359,12,28,Wed Feb 28 2024,7:00p,REG,1,Penn State,Big Ten,25.4,L,88.0,93.0,,12.0,16.0,L 1,Mackey Arena,Purdue,2024-02-28,2,2,28,2024
+360,12,29,Sun Mar 3 2024,7:00p,REG,0,Michigan,Big Ten,18.99,L,60.0,64.0,,12.0,17.0,L 2,Crisler Center,Purdue,2024-03-03,6,3,3,2024
+362,13,1,Thu Nov 9 2023,8:00p,REG,1,Illinois-Chicago,MVC,0.25,W,92.0,86.0,OT,1.0,0.0,W 1,Welsh-Ryan Arena,Northwestern,2023-11-09,3,11,9,2023
+363,13,2,Sun Nov 12 2023,3:00p,REG,1,Omaha,Summit,-13.54,W,87.0,69.0,,2.0,0.0,W 2,Welsh-Ryan Arena,Northwestern,2023-11-12,6,11,12,2023
+364,13,3,Wed Nov 15 2023,7:00p,REG,0,Notre Dame (16),ACC,32.47,L,52.0,110.0,,2.0,1.0,L 1,Purcell Pavilion at the Joyce Center,Northwestern,2023-11-15,2,11,15,2023
+365,13,4,Sun Nov 19 2023,3:00p,REG,1,Southeast Missouri State,OVC,-13.48,W,76.0,68.0,,3.0,1.0,W 1,Welsh-Ryan Arena,Northwestern,2023-11-19,6,11,19,2023
+366,13,5,Wed Nov 22 2023,2:00p,REG,-1,Florida State (13),ACC,20.48,L,52.0,90.0,,3.0,2.0,L 1,Dollar Loan Center,Northwestern,2023-11-22,2,11,22,2023
+367,13,6,Sat Nov 25 2023,12:00a,REG,-1,Belmont,MVC,12.87,L,61.0,83.0,,3.0,3.0,L 2,Dollar Loan Center,Northwestern,2023-11-25,5,11,25,2023
+368,13,7,Wed Nov 29 2023,12:00p,REG,1,Loyola (IL),A-10,-1.63,L,68.0,73.0,,3.0,4.0,L 3,Welsh-Ryan Arena,Northwestern,2023-11-29,2,11,29,2023
+369,13,8,Sun Dec 3 2023,4:00p,REG,1,Georgetown,Big East,8.49,L,58.0,82.0,,3.0,5.0,L 4,Welsh-Ryan Arena,Northwestern,2023-12-03,6,12,3,2023
+370,13,9,Sun Dec 10 2023,1:00p,REG,0,Maryland,Big Ten,22.6,L,58.0,71.0,,3.0,6.0,L 5,Xfinity Center,Northwestern,2023-12-10,6,12,10,2023
+371,13,10,Wed Dec 13 2023,8:00p,REG,0,DePaul,Big East,7.96,L,65.0,90.0,,3.0,7.0,L 6,Wintrust Arena,Northwestern,2023-12-13,2,12,13,2023
+372,13,11,Sun Dec 17 2023,3:00p,REG,1,Bradley,MVC,-17.28,W,86.0,66.0,,4.0,7.0,W 1,Welsh-Ryan Arena,Northwestern,2023-12-17,6,12,17,2023
+373,13,12,Thu Dec 21 2023,11:00a,REG,0,Temple,AAC,8.79,W,72.0,68.0,,5.0,7.0,W 2,Liacouras Center,Northwestern,2023-12-21,3,12,21,2023
+374,13,13,Sat Dec 30 2023,3:00p,REG,1,Rutgers,Big Ten,3.79,W,77.0,70.0,,6.0,7.0,W 3,Welsh-Ryan Arena,Northwestern,2023-12-30,5,12,30,2023
+375,13,14,Tue Jan 2 2024,6:00p,REG,0,Penn State,Big Ten,25.4,L,55.0,95.0,,6.0,8.0,L 1,Bryce Jordan Center,Northwestern,2024-01-02,1,1,2,2024
+376,13,15,Fri Jan 5 2024,8:00p,REG,1,Ohio State (20),Big Ten,34.28,L,60.0,90.0,,6.0,9.0,L 2,Welsh-Ryan Arena,Northwestern,2024-01-05,4,1,5,2024
+377,13,16,Wed Jan 10 2024,7:30p,REG,0,Wisconsin,Big Ten,7.62,W,74.0,69.0,,7.0,9.0,W 1,,Northwestern,2024-01-10,2,1,10,2024
+378,13,17,Sun Jan 14 2024,3:00p,REG,1,Illinois,Big Ten,19.38,L,52.0,93.0,,7.0,10.0,L 1,Welsh-Ryan Arena,Northwestern,2024-01-14,6,1,14,2024
+379,13,18,Wed Jan 17 2024,6:30p,REG,0,Michigan State,Big Ten,28.21,L,72.0,91.0,,7.0,11.0,L 2,Breslin Student Events Center,Northwestern,2024-01-17,2,1,17,2024
+380,13,19,Thu Jan 25 2024,8:00p,REG,1,Penn State,Big Ten,25.4,L,65.0,76.0,,7.0,12.0,L 3,Welsh-Ryan Arena,Northwestern,2024-01-25,3,1,25,2024
+381,13,20,Sun Jan 28 2024,2:00p,REG,0,Indiana (14),Big Ten,30.25,L,59.0,100.0,,7.0,13.0,L 4,Simon Skjodt Assembly Hall,Northwestern,2024-01-28,6,1,28,2024
+382,13,21,Wed Jan 31 2024,8:00p,REG,1,Iowa (3),Big Ten,37.03,L,74.0,110.0,,7.0,14.0,L 5,Welsh-Ryan Arena,Northwestern,2024-01-31,2,1,31,2024
+383,13,22,Sun Feb 4 2024,3:00p,REG,1,Wisconsin,Big Ten,7.62,W,69.0,43.0,,8.0,14.0,W 1,Welsh-Ryan Arena,Northwestern,2024-02-04,6,2,4,2024
+384,13,23,Thu Feb 8 2024,7:00p,REG,0,Illinois,Big Ten,19.38,L,71.0,82.0,,8.0,15.0,L 1,State Farm Center,Northwestern,2024-02-08,3,2,8,2024
+385,13,24,Wed Feb 14 2024,8:00p,REG,1,Purdue,Big Ten,14.46,L,48.0,74.0,,8.0,16.0,L 2,Welsh-Ryan Arena,Northwestern,2024-02-14,2,2,14,2024
+386,13,25,Sat Feb 17 2024,3:00p,REG,0,Minnesota,Big Ten,16.38,L,63.0,88.0,,8.0,17.0,L 3,Williams Arena,Northwestern,2024-02-17,5,2,17,2024
+387,13,26,Tue Feb 20 2024,9:00p,REG,0,Nebraska,Big Ten,22.52,L,50.0,75.0,,8.0,18.0,L 4,Pinnacle Bank Arena,Northwestern,2024-02-20,1,2,20,2024
+388,13,27,Sat Feb 24 2024,3:00p,REG,1,Michigan,Big Ten,18.99,L,60.0,74.0,,8.0,19.0,L 5,Welsh-Ryan Arena,Northwestern,2024-02-24,5,2,24,2024
+389,13,28,Tue Feb 27 2024,7:00p,REG,1,Indiana (14),Big Ten,30.25,L,64.0,84.0,,8.0,20.0,L 6,Welsh-Ryan Arena,Northwestern,2024-02-27,1,2,27,2024
+390,13,29,Sun Mar 3 2024,2:00p,REG,0,Rutgers,Big Ten,3.79,W,72.0,61.0,,9.0,20.0,W 1,Jersey Mike's Arena,Northwestern,2024-03-03,6,3,3,2024
+392,14,1,Mon Nov 6 2023,7:00p,REG,1,Monmouth,CAA,-1.12,W,56.0,51.0,,1.0,0.0,W 1,Jersey Mike's Arena,Rutgers,2023-11-06,0,11,6,2023
+393,14,2,Thu Nov 9 2023,7:00p,REG,1,Wagner,NEC,-30.42,W,86.0,43.0,,2.0,0.0,W 2,,Rutgers,2023-11-09,3,11,9,2023
+394,14,3,Sun Nov 12 2023,5:00p,REG,1,Auburn,SEC,20.77,L,56.0,76.0,,2.0,1.0,L 1,Jersey Mike's Arena,Rutgers,2023-11-12,6,11,12,2023
+395,14,4,Wed Nov 15 2023,7:00p,REG,0,Seton Hall,Big East,14.01,L,63.0,82.0,,2.0,2.0,L 2,Walsh Gymnasium,Rutgers,2023-11-15,2,11,15,2023
+396,14,5,Sat Nov 18 2023,12:00p,REG,1,Saint Francis (PA),NEC,-31.56,W,80.0,51.0,,3.0,2.0,W 1,Jersey Mike's Arena,Rutgers,2023-11-18,5,11,18,2023
+397,14,6,Mon Nov 20 2023,7:00p,REG,1,Fairfield,MAAC,6.88,L,54.0,78.0,,3.0,3.0,L 1,Jersey Mike's Arena,Rutgers,2023-11-20,0,11,20,2023
+398,14,7,Fri Nov 24 2023,9:30p,REG,-1,Texas Tech,Big 12,13.18,L,72.0,79.0,,3.0,4.0,L 2,South Point Arena,Rutgers,2023-11-24,4,11,24,2023
+399,14,8,Sat Nov 25 2023,9:30p,REG,-1,Boise State,MWC,2.57,L,65.0,68.0,,3.0,5.0,L 3,South Point Arena,Rutgers,2023-11-25,5,11,25,2023
+400,14,9,Wed Nov 29 2023,11:00a,REG,1,Delaware State,MEAC,-24.99,W,82.0,48.0,,4.0,5.0,W 1,Jersey Mike's Arena,Rutgers,2023-11-29,2,11,29,2023
+401,14,10,Fri Dec 1 2023,7:00p,REG,1,Lafayette,Patriot,-16.85,W,69.0,48.0,,5.0,5.0,W 2,Jersey Mike's Arena,Rutgers,2023-12-01,4,12,1,2023
+402,14,11,Tue Dec 5 2023,7:00p,REG,1,La Salle,A-10,-12.67,W,98.0,67.0,,6.0,5.0,W 3,Jersey Mike's Arena,Rutgers,2023-12-05,1,12,5,2023
+403,14,12,Sat Dec 9 2023,4:00p,REG,1,Indiana (16),Big Ten,30.25,L,56.0,66.0,,6.0,6.0,L 1,Jersey Mike's Arena,Rutgers,2023-12-09,5,12,9,2023
+404,14,13,Wed Dec 13 2023,7:00p,REG,0,Princeton,Ivy,17.41,L,55.0,66.0,,6.0,7.0,L 2,Jadwin Gymnasium,Rutgers,2023-12-13,2,12,13,2023
+405,14,14,Sun Dec 17 2023,5:30p,REG,1,Virginia Tech (16),ACC,27.25,L,59.0,84.0,,6.0,8.0,L 3,Jersey Mike's Arena,Rutgers,2023-12-17,6,12,17,2023
+406,14,15,Sat Dec 30 2023,3:00p,REG,0,Northwestern,Big Ten,-0.22,L,70.0,77.0,,6.0,9.0,L 4,Welsh-Ryan Arena,Rutgers,2023-12-30,5,12,30,2023
+407,14,16,Tue Jan 2 2024,7:00p,REG,0,Purdue,Big Ten,14.46,L,76.0,77.0,,6.0,10.0,L 5,Mackey Arena,Rutgers,2024-01-02,1,1,2,2024
+408,14,17,Fri Jan 5 2024,6:00p,REG,1,Iowa (4),Big Ten,37.03,L,69.0,103.0,,6.0,11.0,L 6,Jersey Mike's Arena,Rutgers,2024-01-05,4,1,5,2024
+409,14,18,Thu Jan 11 2024,6:00p,REG,0,Ohio State (17),Big Ten,34.28,L,55.0,90.0,,6.0,12.0,L 7,Value City Arena,Rutgers,2024-01-11,3,1,11,2024
+410,14,19,Sun Jan 14 2024,2:00p,REG,1,Penn State,Big Ten,25.4,L,80.0,94.0,,6.0,13.0,L 8,Jersey Mike's Arena,Rutgers,2024-01-14,6,1,14,2024
+411,14,20,Wed Jan 17 2024,7:00p,REG,0,Illinois,Big Ten,19.38,L,68.0,96.0,,6.0,14.0,L 9,State Farm Center,Rutgers,2024-01-17,2,1,17,2024
+412,14,21,Sun Jan 21 2024,2:00p,REG,1,Michigan,Big Ten,18.99,L,50.0,56.0,,6.0,15.0,L 10,Jersey Mike's Arena,Rutgers,2024-01-21,6,1,21,2024
+413,14,22,Sat Jan 27 2024,3:00p,REG,0,Wisconsin,Big Ten,7.62,L,62.0,73.0,,6.0,16.0,L 11,,Rutgers,2024-01-27,5,1,27,2024
+414,14,23,Tue Jan 30 2024,7:00p,REG,1,Michigan State,Big Ten,28.21,L,64.0,82.0,,6.0,17.0,L 12,Jersey Mike's Arena,Rutgers,2024-01-30,1,1,30,2024
+415,14,24,Sat Feb 3 2024,3:00p,REG,0,Nebraska,Big Ten,22.52,W,71.0,70.0,,7.0,17.0,W 1,Pinnacle Bank Arena,Rutgers,2024-02-03,5,2,3,2024
+416,14,25,Tue Feb 6 2024,8:30p,REG,1,Maryland,Big Ten,22.6,L,59.0,67.0,,7.0,18.0,L 1,Jersey Mike's Arena,Rutgers,2024-02-06,1,2,6,2024
+417,14,26,Sat Feb 10 2024,2:00p,REG,0,Michigan,Big Ten,18.99,L,58.0,86.0,,7.0,19.0,L 2,Crisler Center,Rutgers,2024-02-10,5,2,10,2024
+418,14,27,Tue Feb 13 2024,7:00p,REG,1,Minnesota,Big Ten,16.38,W,81.0,73.0,,8.0,19.0,W 1,Jersey Mike's Arena,Rutgers,2024-02-13,1,2,13,2024
+419,14,28,Sat Feb 17 2024,2:00p,REG,1,Wisconsin,Big Ten,7.62,L,43.0,61.0,,8.0,20.0,L 1,Jersey Mike's Arena,Rutgers,2024-02-17,5,2,17,2024
+420,14,29,Wed Feb 21 2024,7:00p,REG,0,Maryland,Big Ten,22.6,L,62.0,81.0,,8.0,21.0,L 2,Xfinity Center,Rutgers,2024-02-21,2,2,21,2024
+421,14,30,Sat Feb 24 2024,2:00p,REG,0,Michigan State,Big Ten,28.21,L,57.0,93.0,,8.0,22.0,L 3,Breslin Student Events Center,Rutgers,2024-02-24,5,2,24,2024
+422,14,31,Sun Mar 3 2024,2:00p,REG,1,Northwestern,Big Ten,-0.22,L,61.0,72.0,,8.0,23.0,L 4,Jersey Mike's Arena,Rutgers,2024-03-03,6,3,3,2024
